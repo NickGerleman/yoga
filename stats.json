@@ -5,16 +5,16 @@
       "path---docs-align-items-76f15f5cbb1b7350f70c.js.map"
     ],
     "component---src-pages-index-js": [
-      "component---src-pages-index-js-480d1bef97e476723db5.js",
-      "component---src-pages-index-js-480d1bef97e476723db5.js.map"
+      "component---src-pages-index-js-57a0a4a86f6af584dd8d.js",
+      "component---src-pages-index-js-57a0a4a86f6af584dd8d.js.map"
     ],
     "component---src-templates-without-playground-js": [
       "component---src-templates-without-playground-js-8841a2159d7471f3af5a.js",
       "component---src-templates-without-playground-js-8841a2159d7471f3af5a.js.map"
     ],
     "path---getting-started-standalone": [
-      "path---getting-started-standalone-d8fe67c5206e91b74b6f.js",
-      "path---getting-started-standalone-d8fe67c5206e91b74b6f.js.map"
+      "path---getting-started-standalone-3ada17a95c1cc054032d.js",
+      "path---getting-started-standalone-3ada17a95c1cc054032d.js.map"
     ],
     "path---docs-margins-paddings-borders": [
       "path---docs-margins-paddings-borders-914c8bc69fcec6df6d9d.js",
@@ -29,12 +29,12 @@
       "path---docs-layout-direction-671ae33e7eb485a25a40.js.map"
     ],
     "path---docs-aspect-ratio": [
-      "path---docs-aspect-ratio-05b6fbd9631459a4da64.js",
-      "path---docs-aspect-ratio-05b6fbd9631459a4da64.js.map"
+      "path---docs-aspect-ratio-0dcd0bb2fc5ef9587959.js",
+      "path---docs-aspect-ratio-0dcd0bb2fc5ef9587959.js.map"
     ],
     "path---docs": [
-      "path---docs-7fb3af5b4c6972b2a997.js",
-      "path---docs-7fb3af5b4c6972b2a997.js.map"
+      "path---docs-1375b3aac53ddbcb7e0c.js",
+      "path---docs-1375b3aac53ddbcb7e0c.js.map"
     ],
     "path---index": [
       "path---index-a0e39f21c11f6a62c5ab.js",
@@ -91,13 +91,13 @@
       "path---playground-a0e39f21c11f6a62c5ab.js.map"
     ],
     "path---contributing-opening-a-pull-request": [
-      "path---contributing-opening-a-pull-request-910bf628a0951242b04d.js",
-      "path---contributing-opening-a-pull-request-910bf628a0951242b04d.js.map"
+      "path---contributing-opening-a-pull-request-bf8c364dae65c0bf743d.js",
+      "path---contributing-opening-a-pull-request-bf8c364dae65c0bf743d.js.map"
     ],
     "app": [
-      "app-1e3cfa4884aa71c428c7.js",
+      "app-1bc82e303ffdd8af7488.js",
       "build-js-styles.css",
-      "app-1e3cfa4884aa71c428c7.js.map",
+      "app-1bc82e303ffdd8af7488.js.map",
       "build-js-styles.css.map"
     ],
     "path---docs-justify-content": [
